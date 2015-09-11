@@ -14,7 +14,7 @@ In general, I'll be treating you like autonomous adults, which does mean you hav
 
 ### Accessing Me (The Instructor)
 
-You will have access to me at The Iron Yard campus during lecture/workshop hours, Slack (you will learn about this on Day 1), and email (that order is probably the quickest way to get to me... and Slack is on my phone, so basically like texting me). I plan on being available 15-20 minutes before class for major issues that will keep you from following along (example: something wrong with your computer or Xcode).
+You will have access to me at The Iron Yard campus during lecture/lab hours, Slack (you will learn about this on Day 1), and email (that order is probably the quickest way to get to me... and Slack is on my phone, so basically like texting me). I plan on being available 15-20 minutes before class for major issues that will keep you from following along (example: something wrong with your computer or Xcode).
 
 ### Attendance
 
