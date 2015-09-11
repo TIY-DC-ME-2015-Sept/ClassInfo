@@ -112,7 +112,12 @@ Slack is a chat tool. We will use it extensively throughout class to communicate
 2. Get the team name from Su and use it create & sign in to your account
 
 
-### 12. Other Software We Will Use Or Reference In Class
+### 12. Apple Announcement 2015 September
+
+The pace of change never stops. Each time there's an Apple announcement, there are things that we need to take into account. Things that need to change. This [announcement](http://www.apple.com/apple-events/september-2015/) was no different. Be sure to watch it before the first day of class.
+
+
+### 13. Other Software We Will Use Or Reference In Class
 
 1. A Text Editor -  A few times in class you'll need a text editor (other than Xcode or TextEdit). I like [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12). You may have another favorite if you've done other coding classes. You can use any text editor you want. If you don't have a favorite get TextWrangler.
 2. An Image Editor - Photoshop is the mother of all image editors, but it's overkill (and crazy expensive) for this class. If you have it, great. If not, you can use your favorite image editor. I like [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12), but it doesn't matter as long as it can export PNGs with transparency
