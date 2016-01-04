@@ -4,7 +4,6 @@
     Tom Crawford
     Slack (preferred contact method)
     tom.crawford@theironyard.com (Ok contact method)
-    (202) 810-4045 (text if you have to, call with emergencies)
 
 We've got [a lot](http://hijk.it/1F2Q0u1O0Q03) to cover and only a few short weeks to do so. I'm going to ask that you complete some preliminary work, so that we can establish a common starting point and spend the time in the first class learning rather than getting setup and on the same page. That said, feel free to contact me with questions - learning how to ask for help is a very important skill.
 

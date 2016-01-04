@@ -4,8 +4,6 @@
     Tom Crawford
     Slack (preferred contact method)
     tom.crawford@theironyard.com (Ok contact method)
-    (202) 810-4045 (text if you have to, call with emergencies)
-
 
 ## Policies
 

@@ -14,3 +14,7 @@ Philosophy covers how we’re going to approach the class and what behavior we e
 ## Pre-Work
 
 Pre-work covers all the stuff you need to do before class to make sure you’re ready to get going on Day 1. We want to be as productive as possible at the kickoff
+
+## Outline
+
+Outline gives an overview of what was covered during this cohort
